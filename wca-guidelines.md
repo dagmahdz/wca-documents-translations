@@ -1,4 +1,4 @@
-# <wca-title>WCA Directrices 2014
+# <wca-title>WCA Directrices 2015
 
 <version>Versión: 3 de Abril de 2015
 
@@ -58,6 +58,7 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - 3a++) [ADICIÓN] Por defecto, cada competidor debe utilizar el mismo puzzle para los intentos consecutivos en una ronda de speed solving. El competidor puede cambiar de puzzle entre intentos a criterio del juez o Delegado WCA.
 - 3a+++) [ACLARACIÓN] Los competidores pueden tomar prestados puzzles de otros competidores de forma privada, para usarlos en competencia.
 - 3a1+) [ACLARACIÓN] Los competidores pueden ser descalificados si no tienen un puzzle listo para entregar poco después de que son llamados  (p. ej. si pensaban utilizar un puzzle que otro competidor está usando en ese momento, y por lo tanto no puede entregar su puzzle en ese instante).
+- 3d1b+) [ACLARACIÓN] Los patrones no necesitan estar presentes en cada una de las caras, pero sólo en las caras donde no puedan distinguir el color. Las piezas no deben tener ninguna otra característica. (p.ej.) texturas, irregularidades en los patrones) que los distinga significativamente de piezas similares. 
 - 3h+) [ACLARACIÓN] Los puzzles pueden ser refinados internamente, siendo lijados o lubricados.
 - 3h++) [EJEMPLO] Los ejemplos de mejoras incluyen: posibilidad de nuevos movimientos, imposibilidad de movimientos normales, más piezas o caras visibles, colores visibles en la parte trasera del cubo, movimientos automáticos, o el puzzle tiene más/diferentes estados resueltos.
 - 3h2+) [ACLARACIÓN] Antes, los puzzles “stickerless” no estaban permitidos. Ahora sí son permitidos. 
@@ -144,7 +145,8 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 - A1a2+) [ADICIÓN] En caso de un tiempo límite acumulativo, el juez registra el tiempo original registrado para un DNF en la hoja de resultados entre paréntesis, por ejemplo "DNF (1:02.27)".
 - A1a3+) [RECORDATORIO] El equipo organizador y el Delegado WCA deben ser conscientes de que los límites de tiempo influyen en las estrategias de los competidores (por ejemplo, yendo más rápido en los dos primeros intentos con la esperanza de superar un corte en una ronda combinada), y que cambiar esos límites después del comienzo de la ronda puede perjudicar a algunos competidores injustamente.
 - A1a4+) [RECORDATORIO] Si a un competidor se le ha permitido accidentalmente superar el límite de tiempo, el límite de tiempo debe ser aplicado retroactivamente, y el juez, competidor y Delegado WCA deben ser informados (ver [Regla 1g2](regulations:regulation:1g2)). Los jueces deben siempre conocer el tiempo límite del intento en curso, (que podría depender de intentos previos, en caso de un tiempo límite acumulativo).
-- A2c1+) [ACLARACIÓN] En el pasado, las tarjetas de resultados se usaban para tapar los puzzles, lo que dejaba algunas caras al descubierto. Esto ya no está permitido.
+- A1c1+) [ACLARACIÓN] Los deleagdos de la WCA sólo deben usar su discreción para prevenir que los competidores perjudiquen gravemente la competencia. (p.ej. perder el tiempo y/o los recuersos de la competencia). Los competidores no deberán ser descalificados por un resultado “pobre” cuando están dando lo mejor de sí mismos y de sus habilidades en la competencia.
+- A2c1+) [RECORDATORIO] En el pasado, las tarjetas de resultados se usaban para tapar los puzzles, lo que dejaba algunas caras al descubierto. Esto ya no está permitido.
 - A3c3+) [ACLARACIÓN] El competidor puede reiniciar el cronómetro antes/durante la etapa de inspección si es que al juez se le olvida hacerlo. Pero, es responsabilidad del juez asegurarse que el cronómetro fué reiniciado (ver [Regla A3b](regulations:regulation:A3b)). Si el competidor, por accidente, trata de iniciar la solución con un cronómetro que el juez no reinició (p.ej. el competidor realiza la inspección, pone sus manos sobre el cronómetro por un tiempo razonable, asume que el cronómetro va a iniciar normalmente, y empieza a manipular el puzzle), el intento deberá ser reemplazado por un intento extra, a discreción del Delegado de la WCA. 
 - A3C4+) [ACLARACIÓN] Si se olgigó a usar objetos delgados adentro de un puzzle el juez no debe remover el objeto por el competidor. 
 - A6b+) [EXPLICACIÓN] El valor arbitrario de 0.06 segundos ha sido seleccionado para dar respuesta a los errores de funcionamiento de los cronómetros Stackmat.
